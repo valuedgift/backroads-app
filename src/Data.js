@@ -70,7 +70,7 @@ export const  tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'Canada',
     duration: 3,
-    cost: 2500,
+    cost: 3000,
   },
   {
     id: 4,
@@ -80,7 +80,7 @@ export const  tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'USA',
     duration: 4,
-    cost: 3000,
+    cost: 4000,
   },
   {
     id: 5,
@@ -90,7 +90,7 @@ export const  tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'UK',
     duration: 5,
-    cost: 2900,
+    cost: 3900,
   },
   {
     id: 6,
@@ -100,6 +100,6 @@ export const  tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'Nigeria',
     duration: 6,
-    cost: 1200,
+    cost: 1250,
   },
 ]
