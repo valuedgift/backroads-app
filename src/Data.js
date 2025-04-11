@@ -60,7 +60,7 @@ export const  tours = [
     info: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque vitae tempore voluptatum maxime reprehenderit eum quod exercitationem fugit, qui corporis.',
     location: 'Dubai',
     duration: 2,
-    cost: 1500,
+    cost: 1600,
   },
   {
     id: 3,
